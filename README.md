@@ -238,5 +238,3 @@ This project is created as a technical assessment for PwC.
 - [ ] Multi-language support
 
 ---
-
-**Built with ❤️ for PwC Technical Assessment**
